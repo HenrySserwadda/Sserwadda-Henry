@@ -1,0 +1,2 @@
+#create ecommerce system that checks inputs like subtotal, discount, tax to calculate the final price of a product. Include the coupon code for discount and tax rate for the calculation.Use nested conditons to handle different scenarios such as valid/invalid coupon codes, different tax rates based on location and various discount levels based on the subtotal amount.Implement log
+#https://github.com/drjeffgeoff/BSE_RECESS_26.git
