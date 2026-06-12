@@ -1,0 +1,7 @@
+first_name= str( input("Enter your first name: "))
+last_name =str( input("Enter your last name: "))
+birth_year= int(input("Enter your birth year: "))
+current_year= int( 2026)
+age =int( current_year - birth_year)
+city= str( input("Enter your city of residence: "))
+print(f"Hello, {first_name} {last_name}!\nYou are {age} years old and live in {city}.")
