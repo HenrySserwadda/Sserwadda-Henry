@@ -1,0 +1,42 @@
+2026-06-28 17:55:16 | INFO | ========================================
+2026-06-28 17:55:16 | INFO | System started.
+2026-06-28 17:55:16 | INFO | User selected: Add Student
+2026-06-28 17:55:16 | INFO | Added student: 21/U/0012 – Aisha Nakato
+2026-06-28 17:55:16 | INFO | add_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Add Student
+2026-06-28 17:55:16 | INFO | Added student: 21/U/0045 – Brian Ssemakula
+2026-06-28 17:55:16 | INFO | add_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Add Student
+2026-06-28 17:55:16 | INFO | Added student: 20/U/0089 – Carol Atim
+2026-06-28 17:55:16 | INFO | add_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Add Student
+2026-06-28 17:55:16 | INFO | Added student: 22/U/0003 – David Okello
+2026-06-28 17:55:16 | INFO | add_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Add Student
+2026-06-28 17:55:16 | INFO | Added student: 20/U/0121 – Esther Namukasa
+2026-06-28 17:55:16 | INFO | add_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: View All Students
+2026-06-28 17:55:16 | INFO | Viewed all students – 5 record(s) displayed.
+2026-06-28 17:55:16 | INFO | view_all_students() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Search Student
+2026-06-28 17:55:16 | INFO | Searched for student: 21/U/0012
+2026-06-28 17:55:16 | INFO | search_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Search Student
+2026-06-28 17:55:16 | WARNING | Search failed: No student found with reg number '99/U/9999'.
+2026-06-28 17:55:16 | INFO | search_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Add Student
+2026-06-28 17:55:16 | WARNING | Add failed: A student with reg number '21/U/0012' already exists.
+2026-06-28 17:55:16 | INFO | add_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Update Student
+2026-06-28 17:55:16 | INFO | Updated student: 22/U/0003
+2026-06-28 17:55:16 | INFO | update_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Delete Student
+2026-06-28 17:55:16 | INFO | Deletion cancelled for: 20/U/0121
+2026-06-28 17:55:16 | INFO | delete_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: Add Student
+2026-06-28 17:55:16 | WARNING | Add failed: Age must be between 16 and 60.
+2026-06-28 17:55:16 | INFO | add_student() function completed.
+2026-06-28 17:55:16 | INFO | User selected: View All Students
+2026-06-28 17:55:16 | INFO | Viewed all students – 5 record(s) displayed.
+2026-06-28 17:55:16 | INFO | view_all_students() function completed.
+2026-06-28 17:55:16 | INFO | System exited by user.

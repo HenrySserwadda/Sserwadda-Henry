@@ -1,0 +1,3 @@
+I love python
+I am a trader
+ I am learning Python
