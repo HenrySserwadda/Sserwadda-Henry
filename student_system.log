@@ -3,3 +3,6 @@
 2026-06-28 21:02:03 | INFO | User selected: View All Students
 2026-06-28 21:02:03 | INFO | Viewed all students – no records.
 2026-06-28 21:02:03 | INFO | view_all_students() function completed.
+2026-06-29 09:24:03 | WARNING | Invalid menu choice: 'python -u "c:\Users\user\Desktop\Sserwadda-Henry\day10\num.py"'
+2026-06-29 09:24:49 | WARNING | Invalid menu choice: 'clear'
+2026-06-29 09:32:19 | WARNING | Invalid menu choice: 'python -u "c:\Users\user\Desktop\Sserwadda-Henry\day10\num.py"'
