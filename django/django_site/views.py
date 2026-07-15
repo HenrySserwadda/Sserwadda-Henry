@@ -1,4 +1,7 @@
-from django.http import HttpResponse
+from django.shortcuts import render
+from .forms import InputForm
 
-def My_First_Project(request):
-    return(HttpResponse("My name is Sserwadda Henry"))
+def home_view(request):
+    context = {}
+    context['form'] = InputForm()
+    return render(request, "home.html", context)
